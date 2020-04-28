@@ -1,11 +1,2 @@
-.gradle
 .idea
 *.iml
-
-*.dev.*
-
-build
-classes
-out
-
-!.gitkeep
